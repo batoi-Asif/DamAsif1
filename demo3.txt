@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 fdgddffsggfjhjgjgjghjghj
+=======
+rf
+gfgfd
+df
+g
+g
+
+fgdf
+f
+g
+sdfsdg
+fdgddffsggf
+>>>>>>> master
